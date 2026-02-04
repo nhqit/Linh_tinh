@@ -1,18 +1,24 @@
 {
   "keys": [
     {
-      "key": "NHQ-VIP-PRO-Max",
-      "expires": "2099-12-31",
+      "key": "NHQ-VIP-PRO-MAX",
+      "expires": "2099-12-31 00:00:00",
       "user": "VIP PRO MAX",
       "note": "VIP PRO MAX key"
     },
     {
       "key": "Key-1-Day",
-      "expires": "2026-02-04",
+      "expires": "2026-02-04 00:00:00",
       "user": "Key 1 Day",
       "note": "1 Day key"
+    },
+    {
+      "key": "Key-1-Hour",
+      "expires": "2026-02-04 14:40:00",
+      "user": "Key 1 Hour"
     }
   ],
   "version": "1.0",
   "updated": "2026-02-04"
 }
+
