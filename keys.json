@@ -1,24 +1,19 @@
 {
   "keys": [
     {
-      "key": "NHQ-DEMO-2024-FREE",
-      "expires": "2025-12-31",
-      "user": "Demo User",
-      "note": "Demo key for testing"
-    },
-    {
-      "key": "NHQ-VIP-LIFETIME-001",
+      "key": "NHQ-VIP-PRO-Max",
       "expires": "2099-12-31",
-      "user": "VIP Lifetime",
-      "note": "Lifetime VIP key"
+      "user": "VIP PRO MAX",
+      "note": "VIP PRO MAX key"
     },
     {
-      "key": "NHQ-MONTH-FEB-2024",
-      "expires": "2024-02-29",
-      "user": "Monthly User",
-      "note": "February 2024 key"
-    }
+      "key": "key-1-Day",
+      "expires": "2026-02-04",
+      "user": "Key 1 Day",
+      "note": "1 Day key"
+    },
   ],
   "version": "1.0",
-  "updated": "2024-02-04"
+  "updated": "2026-02-04"
 }
+
